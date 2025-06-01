@@ -8,6 +8,7 @@
 <p align="left">
 <a href="https://instagram.com/kim.sechan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kim.sechan" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Ny7FmRZ7wJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Ny7FmRZ7wJ" height="30" width="40" /></a>
+notion link: https://www.notion.so/_-203ae123dbe280509e47cb152ba63241
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
